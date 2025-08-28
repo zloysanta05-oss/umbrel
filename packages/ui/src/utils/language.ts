@@ -10,6 +10,7 @@ export const languages = [
 	{name: 'Magyar', code: 'hu'},
 	{name: 'Nederlands', code: 'nl'},
 	{name: 'Português', code: 'pt'},
+	{name: 'Русский', code: 'ru'},
 	{name: 'Українська', code: 'uk'},
 	{name: 'Türkçe', code: 'tr'},
 	{name: '日本語', code: 'ja'},
